@@ -8,7 +8,7 @@ An end-to-end, leak-free, multimodal computational pipeline integrating **neurol
 
 ---
 
-## 🔒 Data Privacy & Ethics Compliance Statement
+##  Data Privacy & Ethics Compliance Statement
 
 > **Notice**: In strict compliance with healthcare privacy regulations (HIPAA, GDPR, and institutional medical research governance), **all raw patient records, hospital medical record numbers, individual patient names, and protected health information (PHI) have been completely excluded from this public repository**. 
 >
